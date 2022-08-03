@@ -1025,12 +1025,13 @@ margin-top: 15px;
 .footer .container .Quick ul li a i.right-arrow {
     margin-right: 5px;
 }
+.footer .container .form {
+    display: flex;
+    flex-direction: column;
+}
 .footer .container .form p {
     width: 70%;
     margin-bottom: 20px;
-}
-.footer .container .form .form-input {
-    position: relative;
 }
 .footer .container .form .form-input input {
     padding: 10px;
@@ -1038,7 +1039,8 @@ margin-top: 15px;
 .footer .container .form .form-input button {
     position: absolute;
     background-color: var(--main-color);
-    padding:10px;
+    padding: 6px;
+    height: 35px;
 }
 .footer .container .social {
     margin-top: 15px;
