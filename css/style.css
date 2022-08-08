@@ -32,7 +32,7 @@ li {
 a {
     text-decoration: none;
 }
-input,textarea {
+,textarea {
     outline: none;
     border: none;
 }
@@ -236,7 +236,7 @@ header .information .mega-menu:hover .Acounts-menu {
     font-family: arial;
     color: var(--Fifth-Color);
 }
-.address .container input {
+.address .container  {
     border: 1px solid #ddd;
     padding: 10px;
     color: var(--Fifth-Color);
@@ -1153,7 +1153,7 @@ margin-top: 15px;
     position: absolute;
     border-radius: 50%;
     left: 4px;
-    top: 5px;
+    top: 4px;
 }
 .product-sale .container .options .sizes h5 {
     font-size: 14px;
