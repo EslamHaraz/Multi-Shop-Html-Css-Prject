@@ -227,6 +227,14 @@ header .information .mega-menu:hover .Acounts-menu {
     color: var(--the-fourth-color);
     background-color: var(--main-color);
 }
+.address .container span:nth-child(2) {
+    width:200px;
+}
+.address .container span:nth-child(2) input {
+     width: 100%;
+     border: 1px solid #ddd;
+     padding: 10px;
+}
 .address .container span:nth-child(3) {
     text-align: center;
 }
