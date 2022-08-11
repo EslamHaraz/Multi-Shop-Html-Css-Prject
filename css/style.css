@@ -236,14 +236,6 @@ header .information .mega-menu:hover .Acounts-menu {
     font-family: arial;
     color: var(--Fifth-Color);
 }
-.address .container  {
-    border: 1px solid #ddd;
-    padding: 10px;
-    color: var(--Fifth-Color);
-    outline: none;
-    width: 250px;
-    height: 35px;
-}
 span.search-icon {
     position: relative;
 }
